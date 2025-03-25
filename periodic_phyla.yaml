@@ -1,0 +1,6 @@
+name: periodic_phyla
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+prefix: /data/mhoffert/miniforge3/envs/periodic_phyla
